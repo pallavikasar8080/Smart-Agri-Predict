@@ -1,0 +1,8 @@
+{
+  "name": "AgroProfit AI",
+  "description": "An intelligent crop price prediction system using Gemini AI to analyze soil, weather, and historical data to forecast profitability.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
